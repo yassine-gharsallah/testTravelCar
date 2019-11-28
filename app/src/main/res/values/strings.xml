@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">testTravelCar</string>
+
+
+    <string name="network_error_message">Il semble y avoir un souci du côté de votre connexion internet.</string>
+    <string name="unknown_error_message">Une erreur est survenue</string>
+    <string name="error">Erreur</string>
+    <string name="unhandled_error_code">"Erreur inconnue"</string>
+    <string name="no_network_error">"La connexion Internet semble interrompue."</string>
+    <string name="timeout">"La requête a expiré"</string>
+    <string name="network_error">"Erreur de réseau"</string>
+    <string name="unexpected_response">"Réponse serveur inattendue"</string>
+    <string name="unexpected_error">"Erreur inattendue"</string>
+    <string name="bad_data_error">"Veuillez vérifier le format de vos informations."</string>
+    <string name="not_connected">"Non connecté"</string>
+
+</resources>
